@@ -15,5 +15,9 @@ public class Main {
         
         System.out.println(pj1.toString());
         System.out.println(pj2.toString());
+        System.out.println(pj3.toString());
+        System.out.println(pj4.toString());
+        System.out.println(pj5.toString());
+
     }
 }
