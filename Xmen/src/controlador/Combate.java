@@ -1,0 +1,6 @@
+ package controlador;
+
+class Combate {
+
+    
+}
